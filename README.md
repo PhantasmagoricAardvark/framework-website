@@ -1,0 +1,1 @@
+Creating a website using the grid framework that was made previously in the same project.
